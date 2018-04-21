@@ -1,0 +1,9 @@
+{
+  "name": "promise-trampoline",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "big-integer": "^1.6.28"
+  }
+}
